@@ -1,2 +1,4 @@
-![Sp1](ReadmeImg/SP1.png)
-![Sp2](ReadmeImg/SP2.png)
+Burger Builder
+=========
+
+![Sp1](ReadmeImg/6itNMc.gif)
